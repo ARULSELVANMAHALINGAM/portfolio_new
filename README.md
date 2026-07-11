@@ -3,7 +3,7 @@
 Personal portfolio of Arul Selvan Mahalingam — Full-Stack Developer & AI/ML Engineer.
 
 ## Live Demo
-Check out the live deployment at [https://arulselvanmahalingm.vercel.app](https://arulselvanmahalingm.vercel.app).
+Check out the live deployment at [https://arulselvanmahalingam.vercel.app](https://arulselvanmahalingam.vercel.app).
 
 ## Built With
 - **Framework**: Next.js 14 (App Router)
