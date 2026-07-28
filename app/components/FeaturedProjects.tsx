@@ -31,7 +31,7 @@ export default function FeaturedProjects() {
       rationale: 'Built the queue system to update live across student and kitchen views simultaneously, since a stale queue state would defeat the entire point of pre-ordering.',
       tech: ['React', 'Tailwind CSS', 'Real-time Queue System'],
       github: 'https://github.com/ARULSELVANMAHALINGAM/smart-canteen-management',
-      live: 'https://canteen.arulselvan.dev',
+      live: 'https://smartcanteen.arulselvan.dev',
       image: '/projects/smart-canteen.png',
     },
     {
