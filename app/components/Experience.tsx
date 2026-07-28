@@ -73,7 +73,7 @@ export default function Experience() {
               <div>
                 <h3 className="text-lg font-semibold text-white">Yaazh Tech Pvt Ltd</h3>
                 <p className="text-[#22D3EE] text-sm font-mono mt-1">
-                  Frontend Developer Intern (Java Full Stack Development)
+                  Java Full Stack Development Intern
                 </p>
               </div>
               <div className="text-right text-sm text-gray-400 font-mono flex-shrink-0">
