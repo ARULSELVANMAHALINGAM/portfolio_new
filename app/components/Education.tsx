@@ -16,14 +16,14 @@ export default function Education() {
       institution: 'SRV Boys Higher Secondary School, Rasipuram',
       period: '2022 - 2023',
       grade: 'Score: 68.6%',
-      description: 'Core secondary coursework focusing on Mathematics, Physics, Chemistry, and Computer Science.',
+      description: 'Core secondary coursework focusing on Mathematics, Physics, Chemistry, and Biology.',
     },
     {
       degree: '10th (Secondary School Education)',
       institution: 'Sri Vidhya Mandir Matric. Hr. Sec. School, Gurusamipalayam',
       period: '2020 - 2021',
       grade: 'Score: 85.4%',
-      description: 'General matriculation curriculum focusing on science, mathematics, and primary computer courses.',
+      description: 'General matriculation curriculum focusing on science and mathematics.',
     },
   ];
 
